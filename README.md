@@ -9,11 +9,9 @@ Smarty Sessions uses Apple Intelligence to generate personalized session recomme
 3. Third-Party Advertising
 Smarty Sessions displays ads via Google AdMob. While AdMob may collect data to serve personalized ads, MultiSideable LLC does not access, store, or use any data derived from these ads.
 For more information on how AdMob handles data, please refer to Google’s Privacy & Terms.
-4. Children’s Privacy
-Smarty Sessions is not intended for children under the age of 13. We do not knowingly collect personal information from children.
-5. Your Rights
+4. Your Rights
 Since we do not collect or store personal data, there is no data to access, modify, or delete. You are in full control of your session history via your device.
-6. Changes to This Policy
+5. Changes to This Policy
 We may update this privacy policy from time to time. Any changes will be posted within the app or on our website.
-7. Contact Us
+6. Contact Us
 If you have any questions or concerns about this policy, please contact: Multisideable LLC Email: multisideable@pm.me
