@@ -1,4 +1,4 @@
-# Smarty-Sessions
+# Smarty Sessions
 
 Privacy Policy for Smarty Sessions
 Smarty Sessions is developed by Multisideable LLC. We respect your privacy and are committed to protecting your personal data. This policy explains what information we collect, how it’s used, and your rights regarding that data.
